@@ -18,6 +18,7 @@ go build .
 ```
 
 5. Após isso, o executável do projeto estará pronto.
+  
   a) Em Windows:
   ```bash
   ts-wizard.exe filter --null-packets 10 tsdeorigem.ts novotsdedestino.ts
